@@ -28,6 +28,10 @@ candy = {
             "2:fructose",
             "3:super-sweet",
         ],
+        "Geogragphy":[
+            "1:hershey_park",
+            "2:tonawanda",
+        ]
         }
         
 
